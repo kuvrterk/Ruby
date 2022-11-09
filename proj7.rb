@@ -1,4 +1,3 @@
-#David Navarro Cs326 Section 1002
 #ruby proj7.rb -ids or -name > scores.html
 #must have csv file in the same diectory as the ruby file
 require 'csv'
