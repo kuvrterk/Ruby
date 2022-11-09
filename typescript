@@ -1,0 +1,51 @@
+Script started on 2022-10-24 18:19:45-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="101" LINES="35"]
+[?2004h]0;kuvrterk@kuvrterk-virtual-machine: ~/Documents/proj6[01;32mkuvrterk@kuvrterk-virtual-machine[00m:[01;34m~/Documents/proj6[00m$ ./print[K./printls[Kcd cs370ls[Kcd Documentsls[Kcd cs370ls[K./print[K./printls[Kcd cs370ls[Kcd Documentsls[K./cpu[3Pls./cpug++ cpu.c -o cpuls[K./print[K[K[K[K[K[K[Kls
+[?2004lproj6.rb  typescript
+[?2004h]0;kuvrterk@kuvrterk-virtual-machine: ~/Documents/proj6[01;32mkuvrterk@kuvrterk-virtual-machine[00m:[01;34m~/Documents/proj6[00m$ ruby proj6.rb
+[?2004lScrabble Score Calculator
+Enter word to score: ^2cr3azy
+42
+
+Scrabble Score Calculator
+Enter word to score: Scrabble
+12
+
+Scrabble Score Calculator
+Enter word to score: 2scRab3ble
+32
+
+Scrabble Score Calculator
+Enter word to score: cs326
+Error, found bad character 2
+Error, found bad character 6
+Scrabble Score Calculator
+Enter word to score: per3l
+8
+
+Scrabble Score Calculator
+Enter word to score: Computer Science
+Error found a bad character:
+  
+Scrabble Score Calculator
+Enter word to score: per4l
+9
+
+Scrabble Score Calculator
+Enter word to score: 2Com3p2uter
+46
+
+Scrabble Score Calculator
+Enter word to score: 6perl
+36
+
+Scrabble Score Calculator
+Enter word to score: 3ed2
+15
+
+Scrabble Score Calculator
+Enter word to score: 
+bye!
+[?2004h]0;kuvrterk@kuvrterk-virtual-machine: ~/Documents/proj6[01;32mkuvrterk@kuvrterk-virtual-machine[00m:[01;34m~/Documents/proj6[00m$ exit
+[?2004lexit
+
+Script done on 2022-10-24 18:21:11-07:00 [COMMAND_EXIT_CODE="0"]
