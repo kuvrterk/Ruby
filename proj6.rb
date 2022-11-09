@@ -1,5 +1,4 @@
 #!/user/bin/ruby
-#David Navarro Section 1002 CS326
 
 #Hash table for program
 user_hash = { 'A' => 1,  'F' => 4,  'K' => 5,  'P' => 3,  'U' => 1,
